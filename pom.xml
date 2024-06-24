@@ -12,7 +12,7 @@
         <docker.image.prefix>kammana</docker.image.prefix>
         <!-- Maven compiler source and target version -->
         <maven.compiler.source>22</maven.compiler.source>
-        <maven.compiler.target>2</maven.compiler.target>
+        <maven.compiler.target>22</maven.compiler.target>
     </properties>  
     <dependencies>
         <dependency>
